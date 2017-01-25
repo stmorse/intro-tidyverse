@@ -23,6 +23,8 @@ The R scripts with all code filled in are also provided, in `script_full.R` and 
 
 (The `master.Rmd` and `master.html` files creating the [online session notes](https://stmorse.github.io/intro-tidyverse/master.html) can be ignored.)
 
+The data is publicly available at [Kaggle](http://kaggle.com) as the [Boston Airbnb dataset](http://kaggle.com/airbnb/boston), but we also provide it in this repository for convenience.
+
 
 ## Pre-assignment 2: Installing libraries
 
